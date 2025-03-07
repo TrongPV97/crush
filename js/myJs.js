@@ -3580,7 +3580,7 @@ console.log(lng.length)
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "img/l9.jpg",
+      imageUrl: "img/l7.jpg",
       background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Thuy Duong",
       onOpen: function () {
