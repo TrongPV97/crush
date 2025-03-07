@@ -1,12 +1,12 @@
 const textConfig = {
   text1: "He luuuuuuuuu!",
-  text2: "Chúc em ngày mới vui vẻ, nhiều năng lượng!",
+  text2: "Chúc em ngày 8/3 thật xinh đẹp!",
   text7: "Nhớ giữ lời nhá.hehe! Nào, hãy gửi anh 1 tính từ mà em cảm nhận về anh!",
   text8: "Gửi anh ạ!",
   text9: "Ôi, rất đáng yêu ạ. hehe!",
   text10: "Cảm ơn em vì đã xem hết trang web này!",
   text11:
-    "Giờ thì chúc em 1 ngày làm việc thật hiệu quả nha!",
+    "Giờ thì chúc em ngủ ngon, mai sẽ 1 ngày thật vui và ý nghĩa nha!",
   text12: "Bắn em 1 hình tym nè!",
 };
 
@@ -3580,9 +3580,9 @@ console.log(lng.length)
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "img/l1.jpg",
+      imageUrl: "img/l9.jpg",
       background: '#fff url("img/iput-bg.jpg")',
-      imageAlt: "白正擎",
+      imageAlt: "Thuy Duong",
       onOpen: function () {
         var audplay = new Audio("sound/m.mp3")
         audplay.play();
