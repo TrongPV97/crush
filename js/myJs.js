@@ -3580,7 +3580,7 @@ console.log(lng.length)
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "img/k1.jpg",
+      imageUrl: "https://cache.giaohangtietkiem.vn/d/19fc7cb0c911c3bd2b40ee25ebcd7086.png",
       background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Kim Khuê",
       onOpen: function () {
