@@ -1,12 +1,12 @@
 const textConfig = {
   text1: "He luuuuuuuuu!",
-  text2: "Rất vui khi được làm quen em!",
-  text7: "Nhớ lời nhá. hehe! Nào, hãy gửi anh 1 tính từ mà em cảm nhận về anh đi!",
+  text2: "Chúc em sinh nhật vui vẻ nhé!",
+  text7: "Cảm ơn em. hehe! Nào, hãy gửi anh 1 tính từ mà em cảm nhận về anh đi!",
   text8: "Gửi anh ạ!",
   text9: "Ôi, rất đáng yêu ạ. hehe!",
   text10: "Cảm ơn em vì đã xem hết trang web này!",
   text11:
-    "Chúc em xíu ngủ ngon, mai sẽ 1 ngày thật vui và ý nghĩa nha!",
+    "Chúc em sinh nhật vui vẻ, gặp thật nhiều may mắn, gặt hái được nhiều thành công!",
   text12: "Bắn em 1 hình tym nè!",
 };
 
@@ -3580,9 +3580,9 @@ console.log(lng.length)
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "https://cache.giaohangtietkiem.vn/d/19fc7cb0c911c3bd2b40ee25ebcd7086.png",
+      imageUrl: "https://cache.giaohangtietkiem.vn/d/2e5099bb54e48a24e4c70d1b32af320d.jpg",
       background: '#fff url("img/iput-bg.jpg")',
-      imageAlt: "Kim Khuê",
+      imageAlt: "Linh Pi",
       onOpen: function () {
         var audplay = new Audio("sound/m.mp3")
         audplay.play();
