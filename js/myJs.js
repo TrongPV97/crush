@@ -6,7 +6,7 @@ const textConfig = {
   text9: "Ôi, rất đáng yêu ạ. hehe!",
   text10: "Cảm ơn em vì đã xem hết trang web này!",
   text11:
-    "Chúc em sẽ có một buổi tối vui vẻ, và một cuối tuần thật thư giãn!",
+    "Chúc em sẽ có một buổi tối vui vẻ và thư giãn nha!",
   text12: "Bắn em 1 hình tym nè!",
 };
 
@@ -3580,9 +3580,9 @@ console.log(lng.length)
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "https://cache.giaohangtietkiem.vn/d/ff6e860714979bc517db56164fbb9efd.png",
+      imageUrl: "https://cache.giaohangtietkiem.vn/d/10214e1cd30ce2e479440e2ade5ddc13.png",
       background: '#fff url("img/iput-bg.jpg")',
-      imageAlt: "Đỗ Minh Ngọc",
+      imageAlt: "Xuân Phương",
       onOpen: function () {
         var audplay = new Audio("sound/m.mp3")
         audplay.play();
